@@ -23,7 +23,7 @@ html {
 }
 body {
   font-family: var(--main-font), sans-serif;
-  background-color: var(--very-dark-blue);
+  background-color: black;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -118,8 +118,8 @@ body {
   width: 100% !important;
 }
 .btn {
-  background-color: var(--white);
-  color: var(--orange);
+  background-color: var(--orange);
+  color: var(--white);
   padding-block: 0.6rem;
   text-transform: uppercase;
   font-weight: bold;
